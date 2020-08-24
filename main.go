@@ -30,7 +30,6 @@ type value struct {
 }
 
 const searchURL = "https://www.ratemyprofessors.com/search.jsp?queryoption=HEADER&queryBy=teacherName&schoolName=The+University+of+Texas+at+Dallas&schoolID=1273&query="
-
 const googleSearchURL = "https://www.google.com/search?q="
 const googleAddons = "+university+of+texas+at+dallas"
 
